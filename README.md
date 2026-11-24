@@ -41,3 +41,4 @@ git push -u origin main
 
 ## Important demo limitation
 Authentication and project data use browser Local Storage as required for this academic demo. This is not production-grade security: credentials and data are stored in the browser and are not shared across different devices/browsers. Use a backend/database and hashed passwords before real-world deployment. The admin demo credentials are visible in this README for review purposes.
+"# Purepickproject" 
